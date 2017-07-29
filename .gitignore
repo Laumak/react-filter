@@ -1,0 +1,4 @@
+dist
+node_modules
+src/api/db.json
+npm-debug.log
